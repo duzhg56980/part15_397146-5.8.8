@@ -1,0 +1,6 @@
+import cn.hutool.crypto.digest.DigestUtil;
+public class FunctionUse9122 {
+public void funcUse() {
+DigestUtil digestutil = new DigestUtil();
+}
+}
